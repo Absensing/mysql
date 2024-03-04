@@ -93,8 +93,6 @@ select
 	*
 from
 	tbl_category;
-select
-	a.menu_name;
     
 select
 	a.category_name,
